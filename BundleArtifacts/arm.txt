@@ -1,0 +1,2 @@
+MainPackage=C:\Users\gxsham\documents\visual studio 2015\Projects\Valera\Valera\bin\ARM\Release\Valera_1.1.0.0_ARM.appx
+SymbolPackage=C:\Users\gxsham\documents\visual studio 2015\Projects\Valera\Valera\AppPackages\Valera_1.1.0.0_Test\Valera_1.1.0.0_ARM.appxsym

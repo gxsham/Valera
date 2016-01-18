@@ -1,0 +1,21 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"C:\Users\gxsham\documents\visual studio 2015\Projects\Valera\Valera\obj\x86\Release\Upload\split.pri"			"resources.pri"
+"C:\Users\gxsham\documents\visual studio 2015\Projects\Valera\Valera\obj\x86\Release\PackageUploadLayout\WinMetadata\Windows.winmd"			"WinMetadata\Windows.winmd"
+"C:\Users\gxsham\documents\visual studio 2015\Projects\Valera\Valera\obj\x86\Release\PackageUploadLayout\Valera.xr.xml"			"Valera.xr.xml"
+"C:\Users\gxsham\documents\visual studio 2015\Projects\Valera\Valera\obj\x86\Release\PackageUploadLayout\Properties\Default.rd.xml"			"Properties\Default.rd.xml"
+"C:\Users\gxsham\documents\visual studio 2015\Projects\Valera\Valera\obj\x86\Release\PackageUploadLayout\Assets\Wide310x150Logo.scale-200.png"			"Assets\Wide310x150Logo.scale-200.png"
+"C:\Users\gxsham\documents\visual studio 2015\Projects\Valera\Valera\obj\x86\Release\PackageUploadLayout\Assets\StoreLogo.png"			"Assets\StoreLogo.png"
+"C:\Users\gxsham\documents\visual studio 2015\Projects\Valera\Valera\obj\x86\Release\PackageUploadLayout\Assets\Square44x44Logo.scale-200.png"			"Assets\Square44x44Logo.scale-200.png"
+"C:\Users\gxsham\documents\visual studio 2015\Projects\Valera\Valera\obj\x86\Release\PackageUploadLayout\Assets\Square44x44Logo.targetsize-24_altform-unplated.png"			"Assets\Square44x44Logo.targetsize-24_altform-unplated.png"
+"C:\Users\gxsham\documents\visual studio 2015\Projects\Valera\Valera\obj\x86\Release\PackageUploadLayout\Assets\Square150x150Logo.scale-200.png"			"Assets\Square150x150Logo.scale-200.png"
+"C:\Users\gxsham\documents\visual studio 2015\Projects\Valera\Valera\obj\x86\Release\PackageUploadLayout\Assets\SplashScreen.scale-200.png"			"Assets\SplashScreen.scale-200.png"
+"C:\Users\gxsham\documents\visual studio 2015\Projects\Valera\Valera\obj\x86\Release\PackageUploadLayout\Assets\Sound5.mp3"			"Assets\Sound5.mp3"
+"C:\Users\gxsham\documents\visual studio 2015\Projects\Valera\Valera\obj\x86\Release\PackageUploadLayout\Assets\Sound4.mp3"			"Assets\Sound4.mp3"
+"C:\Users\gxsham\documents\visual studio 2015\Projects\Valera\Valera\obj\x86\Release\PackageUploadLayout\Assets\Sound3.mp3"			"Assets\Sound3.mp3"
+"C:\Users\gxsham\documents\visual studio 2015\Projects\Valera\Valera\obj\x86\Release\PackageUploadLayout\Assets\Sound2.mp3"			"Assets\Sound2.mp3"
+"C:\Users\gxsham\documents\visual studio 2015\Projects\Valera\Valera\obj\x86\Release\PackageUploadLayout\Assets\Sound1.mp3"			"Assets\Sound1.mp3"
+"C:\Users\gxsham\documents\visual studio 2015\Projects\Valera\Valera\obj\x86\Release\PackageUploadLayout\Assets\LockScreenLogo.scale-200.png"			"Assets\LockScreenLogo.scale-200.png"
